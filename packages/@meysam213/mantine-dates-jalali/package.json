@@ -1,13 +1,30 @@
 {
   "name": "@meysam213/mantine-dates-jalali",
-  "version": "7.3.2-canary.4",
-  "description": "Jalali",
+  "version": "7.3.2-jalali-0",
+  "description": "Jalali Calendars, date and time pickers based on Mantine components",
   "homepage": "https://github.com/premier213/mantine.git/",
   "license": "MIT",
-  "author": "Vitaly Rtishchev <rtivital@gmail.com>",
+  "author": "Meysam Saberi <premier1213@gmail.com>",
+  "files": [
+    "/cjs",
+    "/esm",
+    "/lib",
+    "/styles.css",
+    "/styles.layer.css"
+  ],
   "keywords": [
+    "calendar",
+    "components",
+    "date",
+    "frontend",
+    "library",
+    "next",
+    "nextjs",
+    "picker",
     "react",
-    "ui"
+    "time",
+    "ui",
+    "ui-kit"
   ],
   "sideEffects": [
     "*.css"
