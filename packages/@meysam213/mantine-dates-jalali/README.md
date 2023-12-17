@@ -19,7 +19,7 @@ npm install @meysam213/mantine-dates-jalali
 pnpm add @meysam213/mantine-dates-jalali
 ```
 
-![mantine-dates-jalali](./screenshot.png?raw=true "Screenshot")
+![mantine-dates-jalali](https://raw.githubusercontent.com/premier213/mantine/jalali/packages/%40meysam213/mantine-dates-jalali/screenshot.png "Screenshot")
 
 
 ## Usage
