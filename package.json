@@ -13,6 +13,7 @@
   "workspaces": [
     "packages/@mantine/*",
     "packages/@mantinex/*",
+    "packages/@meysam213/*",
     "packages/@mantine-tests/*",
     "packages/@docs/*",
     "docs"
